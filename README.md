@@ -77,5 +77,5 @@ Feel free to submit pull requests or report issues. Contributions are welcome!
 
 ## Contact
 
-For any inquiries, contact: [your-email@example.com](mailto:your-email@example.com)
+For any inquiries, contact: [giovannib776@gmail.com](mailto:giovannib776@gmail.com)
 
