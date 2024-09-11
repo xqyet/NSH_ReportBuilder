@@ -71,10 +71,6 @@ Before running the application, ensure you have the following installed:
 3. Choose the export format (Excel or CSV).
 4. Click **Generate** to run the report and save it to your machine.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributions
 
 Feel free to submit pull requests or report issues. Contributions are welcome!
