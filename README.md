@@ -73,7 +73,7 @@ Before running the application, ensure you have the following installed:
 
 ## Contributions
 
-Feel free to submit pull requests or report issues. Contributions are welcome!
+This is purely a personal project for fun, so PRs may not be accepted. The code is public domain though, so feel free to fork and do whatever you want with it!
 
 ## Contact
 
