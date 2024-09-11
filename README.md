@@ -9,6 +9,10 @@ A custom report-building application designed to generate reports from SQL Serve
 - Manage configurations using `appsettings.json`.
 - Supports multiple database connections.
 
+## GUI Preview
+
+![Report Builder GUI](ReportingTemplateProject1/gui-screenshot.png)
+
 ## Prerequisites
 
 Before running the application, ensure you have the following installed:
@@ -17,7 +21,7 @@ Before running the application, ensure you have the following installed:
 - [Visual Studio](https://visualstudio.microsoft.com/) (with `.NET Desktop Development` workload)
 - SQL Server (optional, if needed for database connections)
 
-## Installation Instructions
+## Installation Instructions 
 
 1. **Clone the Repository**:
     ```bash
