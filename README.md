@@ -1,13 +1,13 @@
 # Report Builder
 
-A custom report-building application designed to generate reports from SQL Server databases and export them to Excel or CSV formats.
+A custom report-building application designed to generate CSV reports from SQL Server databases and export them to Excel. Will also map CPT codes based on Ord Procedures to increase billing code accuracy in healthcare settinsgs. This is a static reporting model I created with a lot of room for customizability.
 
 ## Features
 
-- Generate reports based on custom SQL queries.
+- Generate reports based on exact SQL queries.
 - Export reports in Excel and CSV formats.
 - Manage configurations using `appsettings.json`.
-- Supports multiple database connections.
+- Supports multiple database connections if you wanted to build a reporting structure for them.
 
 ## GUI Preview
 
@@ -19,7 +19,7 @@ Before running the application, ensure you have the following installed:
 
 - [.NET SDK](https://dotnet.microsoft.com/download)
 - [Visual Studio](https://visualstudio.microsoft.com/) (with `.NET Desktop Development` workload)
-- SQL Server (optional, if needed for database connections)
+- SQL Server (optional, if needed for database connections to retreive csv file formats)
 
 ## Installation Instructions 
 
