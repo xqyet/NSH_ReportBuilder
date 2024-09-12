@@ -45,7 +45,7 @@ Before running the application, ensure you have the following installed:
      ```
 
 5. **Run the Application**:
-   - To run the project:
+   - To run the project: (you can also do this via the VS menu items)
      ```bash
      dotnet run
      ```
