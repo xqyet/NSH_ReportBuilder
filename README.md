@@ -1,6 +1,6 @@
 # Report Builder
 
-A custom report-building application designed to generate CSV reports from SQL Server databases and export them to Excel. Will also map CPT codes based on Ord Procedures to increase billing code accuracy in healthcare settinsgs. This is a static reporting model I created with a lot of room for customizability.
+A custom report-building application designed to generate CSV reports from SQL Server databases and export them to Excel. Will also map CPT codes based on Ord Procedures to increase billing code accuracy in healthcare settinsgs. This is a static reporting model I created with a lot of room for customizability. (for future projects that I create that include file conversions like this, I will instead make the menu a drag-and-drop to automatically generate the new file - much more user friendly, and will look a lot more professional)
 
 ## Features
 
