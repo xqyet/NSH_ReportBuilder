@@ -76,7 +76,5 @@ Before running the application, ensure you have the following installed:
 
 This is a personal project that I made to solve a few issues at work, so PRs may not be accepted. The code is public domain though, so feel free to fork and do whatever you want with it.
 
-## Contact
 
-For any inquiries, contact: [giovannib776@gmail.com](mailto:giovannib776@gmail.com)
 
